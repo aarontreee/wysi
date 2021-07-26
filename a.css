@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/wysi.gif");
+    background-image: url("images/wysi.gif");
 }
 
 h1 {
@@ -29,7 +29,7 @@ h4 {
 }
 
 p {
-    background-image: url("../images/wysi.gif");
+    background-image: url("images/wysi.gif");
     text-align: center;
     color: white;
 }
